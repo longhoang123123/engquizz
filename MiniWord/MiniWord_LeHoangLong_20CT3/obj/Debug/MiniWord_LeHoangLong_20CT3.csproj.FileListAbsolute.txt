@@ -1,0 +1,11 @@
+H:\DOCUMENTS\lap-trinh-windown\MiniWord_LeHoangLong_20CT3\MiniWord_LeHoangLong_20CT3\bin\Debug\MiniWord_LeHoangLong_20CT3.exe.config
+H:\DOCUMENTS\lap-trinh-windown\MiniWord_LeHoangLong_20CT3\MiniWord_LeHoangLong_20CT3\bin\Debug\MiniWord_LeHoangLong_20CT3.exe
+H:\DOCUMENTS\lap-trinh-windown\MiniWord_LeHoangLong_20CT3\MiniWord_LeHoangLong_20CT3\bin\Debug\MiniWord_LeHoangLong_20CT3.pdb
+H:\DOCUMENTS\lap-trinh-windown\MiniWord_LeHoangLong_20CT3\MiniWord_LeHoangLong_20CT3\obj\Debug\MiniWord_LeHoangLong_20CT3.csproj.AssemblyReference.cache
+H:\DOCUMENTS\lap-trinh-windown\MiniWord_LeHoangLong_20CT3\MiniWord_LeHoangLong_20CT3\obj\Debug\MiniWord_LeHoangLong_20CT3.FrmLong.resources
+H:\DOCUMENTS\lap-trinh-windown\MiniWord_LeHoangLong_20CT3\MiniWord_LeHoangLong_20CT3\obj\Debug\MiniWord_LeHoangLong_20CT3.Properties.Resources.resources
+H:\DOCUMENTS\lap-trinh-windown\MiniWord_LeHoangLong_20CT3\MiniWord_LeHoangLong_20CT3\obj\Debug\MiniWord_LeHoangLong_20CT3.csproj.GenerateResource.cache
+H:\DOCUMENTS\lap-trinh-windown\MiniWord_LeHoangLong_20CT3\MiniWord_LeHoangLong_20CT3\obj\Debug\MiniWord_LeHoangLong_20CT3.csproj.CoreCompileInputs.cache
+H:\DOCUMENTS\lap-trinh-windown\MiniWord_LeHoangLong_20CT3\MiniWord_LeHoangLong_20CT3\obj\Debug\MiniWord_LeHoangLong_20CT3.exe
+H:\DOCUMENTS\lap-trinh-windown\MiniWord_LeHoangLong_20CT3\MiniWord_LeHoangLong_20CT3\obj\Debug\MiniWord_LeHoangLong_20CT3.pdb
+H:\DOCUMENTS\lap-trinh-windown\MiniWord_LeHoangLong_20CT3\MiniWord_LeHoangLong_20CT3\obj\Debug\MiniWord_LeHoangLong_20CT3.form2.resources

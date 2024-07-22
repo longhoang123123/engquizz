@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calc_LehoangLong_20CT3", "Calc_LehoangLong_20CT3\Calc_LehoangLong_20CT3.csproj", "{3AF90D55-F99A-488B-8FC0-91DA020848F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3AF90D55-F99A-488B-8FC0-91DA020848F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AF90D55-F99A-488B-8FC0-91DA020848F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AF90D55-F99A-488B-8FC0-91DA020848F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AF90D55-F99A-488B-8FC0-91DA020848F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E36830A3-C800-405B-B4D1-F7861773CE0B}
+	EndGlobalSection
+EndGlobal

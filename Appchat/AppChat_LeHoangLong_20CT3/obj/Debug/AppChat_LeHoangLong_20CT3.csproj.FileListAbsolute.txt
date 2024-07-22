@@ -1,0 +1,13 @@
+H:\DOCUMENTS\lap-trinh-windown\AppChat_LeHoangLong_20CT3\AppChat_LeHoangLong_20CT3\bin\Debug\AppChat_LeHoangLong_20CT3.exe.config
+H:\DOCUMENTS\lap-trinh-windown\AppChat_LeHoangLong_20CT3\AppChat_LeHoangLong_20CT3\bin\Debug\AppChat_LeHoangLong_20CT3.exe
+H:\DOCUMENTS\lap-trinh-windown\AppChat_LeHoangLong_20CT3\AppChat_LeHoangLong_20CT3\bin\Debug\AppChat_LeHoangLong_20CT3.pdb
+H:\DOCUMENTS\lap-trinh-windown\AppChat_LeHoangLong_20CT3\AppChat_LeHoangLong_20CT3\obj\Debug\AppChat_LeHoangLong_20CT3.csproj.AssemblyReference.cache
+H:\DOCUMENTS\lap-trinh-windown\AppChat_LeHoangLong_20CT3\AppChat_LeHoangLong_20CT3\obj\Debug\AppChat_LeHoangLong_20CT3.frmServer.resources
+H:\DOCUMENTS\lap-trinh-windown\AppChat_LeHoangLong_20CT3\AppChat_LeHoangLong_20CT3\obj\Debug\AppChat_LeHoangLong_20CT3.Properties.Resources.resources
+H:\DOCUMENTS\lap-trinh-windown\AppChat_LeHoangLong_20CT3\AppChat_LeHoangLong_20CT3\obj\Debug\AppChat_LeHoangLong_20CT3.csproj.GenerateResource.cache
+H:\DOCUMENTS\lap-trinh-windown\AppChat_LeHoangLong_20CT3\AppChat_LeHoangLong_20CT3\obj\Debug\AppChat_LeHoangLong_20CT3.csproj.CoreCompileInputs.cache
+H:\DOCUMENTS\lap-trinh-windown\AppChat_LeHoangLong_20CT3\AppChat_LeHoangLong_20CT3\obj\Debug\AppChat_LeHoangLong_20CT3.exe
+H:\DOCUMENTS\lap-trinh-windown\AppChat_LeHoangLong_20CT3\AppChat_LeHoangLong_20CT3\obj\Debug\AppChat_LeHoangLong_20CT3.pdb
+H:\DOCUMENTS\lap-trinh-windown\AppChat_LeHoangLong_20CT3\AppChat_LeHoangLong_20CT3\bin\Debug\Newtonsoft.Json.dll
+H:\DOCUMENTS\lap-trinh-windown\AppChat_LeHoangLong_20CT3\AppChat_LeHoangLong_20CT3\bin\Debug\Newtonsoft.Json.xml
+H:\DOCUMENTS\lap-trinh-windown\AppChat_LeHoangLong_20CT3\AppChat_LeHoangLong_20CT3\obj\Debug\AppChat_LeHoangLong_20CT3.csproj.CopyComplete

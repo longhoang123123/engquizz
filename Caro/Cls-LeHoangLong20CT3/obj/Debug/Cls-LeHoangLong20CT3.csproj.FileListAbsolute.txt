@@ -1,0 +1,11 @@
+H:\DOCUMENTS\lap-trinh-windown\Cls-LeHoangLong20CT3\Cls-LeHoangLong20CT3\bin\Debug\Cls-LeHoangLong20CT3.exe.config
+H:\DOCUMENTS\lap-trinh-windown\Cls-LeHoangLong20CT3\Cls-LeHoangLong20CT3\bin\Debug\Cls-LeHoangLong20CT3.exe
+H:\DOCUMENTS\lap-trinh-windown\Cls-LeHoangLong20CT3\Cls-LeHoangLong20CT3\bin\Debug\Cls-LeHoangLong20CT3.pdb
+H:\DOCUMENTS\lap-trinh-windown\Cls-LeHoangLong20CT3\Cls-LeHoangLong20CT3\obj\Debug\Cls-LeHoangLong20CT3.csproj.AssemblyReference.cache
+H:\DOCUMENTS\lap-trinh-windown\Cls-LeHoangLong20CT3\Cls-LeHoangLong20CT3\obj\Debug\Cls_LeHoangLong20CT3.Form1.resources
+H:\DOCUMENTS\lap-trinh-windown\Cls-LeHoangLong20CT3\Cls-LeHoangLong20CT3\obj\Debug\Cls_LeHoangLong20CT3.Properties.Resources.resources
+H:\DOCUMENTS\lap-trinh-windown\Cls-LeHoangLong20CT3\Cls-LeHoangLong20CT3\obj\Debug\Cls-LeHoangLong20CT3.csproj.GenerateResource.cache
+H:\DOCUMENTS\lap-trinh-windown\Cls-LeHoangLong20CT3\Cls-LeHoangLong20CT3\obj\Debug\Cls-LeHoangLong20CT3.csproj.CoreCompileInputs.cache
+H:\DOCUMENTS\lap-trinh-windown\Cls-LeHoangLong20CT3\Cls-LeHoangLong20CT3\obj\Debug\Cls-LeHoangLong20CT3.exe
+H:\DOCUMENTS\lap-trinh-windown\Cls-LeHoangLong20CT3\Cls-LeHoangLong20CT3\obj\Debug\Cls-LeHoangLong20CT3.pdb
+H:\DOCUMENTS\lap-trinh-windown\Cls-LeHoangLong20CT3\Cls-LeHoangLong20CT3\obj\Debug\Cls_LeHoangLong20CT3.FormPlayer.resources

@@ -1,0 +1,13 @@
+H:\DOCUMENTS\lap-trinh-windown\AppChat_LeHoangLong_20CT3\ChatClient\bin\Debug\ChatClient.exe.config
+H:\DOCUMENTS\lap-trinh-windown\AppChat_LeHoangLong_20CT3\ChatClient\bin\Debug\ChatClient.exe
+H:\DOCUMENTS\lap-trinh-windown\AppChat_LeHoangLong_20CT3\ChatClient\bin\Debug\ChatClient.pdb
+H:\DOCUMENTS\lap-trinh-windown\AppChat_LeHoangLong_20CT3\ChatClient\obj\Debug\ChatClient.csproj.AssemblyReference.cache
+H:\DOCUMENTS\lap-trinh-windown\AppChat_LeHoangLong_20CT3\ChatClient\obj\Debug\ChatClient.frmClient.resources
+H:\DOCUMENTS\lap-trinh-windown\AppChat_LeHoangLong_20CT3\ChatClient\obj\Debug\ChatClient.Properties.Resources.resources
+H:\DOCUMENTS\lap-trinh-windown\AppChat_LeHoangLong_20CT3\ChatClient\obj\Debug\ChatClient.csproj.GenerateResource.cache
+H:\DOCUMENTS\lap-trinh-windown\AppChat_LeHoangLong_20CT3\ChatClient\obj\Debug\ChatClient.csproj.CoreCompileInputs.cache
+H:\DOCUMENTS\lap-trinh-windown\AppChat_LeHoangLong_20CT3\ChatClient\obj\Debug\ChatClient.exe
+H:\DOCUMENTS\lap-trinh-windown\AppChat_LeHoangLong_20CT3\ChatClient\obj\Debug\ChatClient.pdb
+H:\DOCUMENTS\lap-trinh-windown\AppChat_LeHoangLong_20CT3\ChatClient\bin\Debug\Newtonsoft.Json.dll
+H:\DOCUMENTS\lap-trinh-windown\AppChat_LeHoangLong_20CT3\ChatClient\bin\Debug\Newtonsoft.Json.xml
+H:\DOCUMENTS\lap-trinh-windown\AppChat_LeHoangLong_20CT3\ChatClient\obj\Debug\ChatClient.csproj.CopyComplete
